@@ -13,5 +13,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: projet-ic
-        password: 1234AZERTY
+        password: 1234AZERTYUIOP
         server-dir : public_html/
